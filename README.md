@@ -8,3 +8,6 @@ In the project directory, you can run:
 
 ## Page:
 https://5f5f80c84b051d00a1751f7b--optimistic-tesla-e1cae9.netlify.app/marvel
+
+## Si sale error en el sitio web:
+Presiona en:  Back to our site
